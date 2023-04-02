@@ -24,7 +24,7 @@ export default function CurriculumVitae() {
 
       {/* Personal content details in timeline */}
       <div className="h-8 " name="break" />
-      <h2 className="text-center uppercase ">Course of Life</h2>
+      <h2 className="text-center uppercase ">Details Info</h2>
       <div className="h-8 " name="break" />
 
       <h3>Skills</h3>
